@@ -18,11 +18,15 @@ const styles = StyleSheet.create({
     height: '100%'
   },
   yswYKTtt: {
-    width: 100,
-    height: 50,
+    width: 270,
+    height: 152,
     lineHeight: 14,
     fontSize: 14,
-    borderRadius: 0
+    borderRadius: 0,
+    fontFamily: "Crimson Text",
+    position: "absolute",
+    left: 33,
+    top: 139
   }
 });
 export default Untitled2;
