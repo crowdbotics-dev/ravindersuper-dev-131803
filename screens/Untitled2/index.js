@@ -9,7 +9,7 @@ const Untitled2 = () => {
       padding: 10,
       position: 'relative',
       flex: 1
-    }}><Text style={styles.yswYKTtt}>Lorem ipsum…</Text></ScrollView>
+    }}><Text style={styles.yswYKTtt}>{"Ravinder test user"}</Text></ScrollView>
     </SafeAreaView>;
 };
 
