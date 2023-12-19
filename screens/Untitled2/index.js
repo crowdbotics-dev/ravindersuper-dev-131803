@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
     lineHeight: 14,
     fontSize: 14,
     borderRadius: 0,
-    fontFamily: "Crimson Text",
+    fontFamily: "Roboto Mono",
     position: "absolute",
     left: 33,
     top: 139
